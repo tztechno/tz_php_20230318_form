@@ -1,4 +1,4 @@
-
+<?php
 session_start();
 // セッションからフォームの入力内容を取り出す
 $name = $_SESSION["name"];
