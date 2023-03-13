@@ -10,7 +10,5 @@
   <div>
     <input type="button" value="トップページへ戻る" onclick="location.href='index.php'">
   </div>
-<?php
-?>
 </body>
 </html>
